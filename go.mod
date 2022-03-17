@@ -1,4 +1,4 @@
-module github.com/congcongke/models
+module github.com/congcongke/models/v2
 
 go 1.16
 
